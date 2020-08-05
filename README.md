@@ -16,7 +16,8 @@ Walk or fly around to create structures and explore your world!
 This Project requires [Java](https://www.java.com/en/download/)
 
 ### Download
-    [Download](https://raw.githubusercontent.com/Dunemask/Voxelcraft/master/Voxelcraft.exe)
+
+[Download](https://raw.githubusercontent.com/Dunemask/Voxelcraft/master/Voxelcraft.exe)
 
 ## Planned Features
 * Resource Pack Support
